@@ -3,7 +3,7 @@ Mass Mikrotik Executor (also known as MME) is a very simple script written in Py
 
 With *MME* you can customize in `/config` the commands to be executed (one per line), the devices to connect to, the users, the passwords and the ports (in case they aren't all the same) to be used. *MME* will try for all the IPs all the combinations within Users, Passwords and Ports you have specified in the config files. Keep in mind this **is not a bruteforce tool** and should not be used for that purpose. Plus, modifying the speed of the tool's logic might result in malfunctioning of the tool itself.
 
-I am not responsible for any illegal use of my tool, use it always on devices you have permission to work on.
+<ins>*I am not responsible for any illegal use of my tool, use it always on devices you have permission to work on.*</ins>
 
 
 <a href="https://github.com/NazgulCoder/Mass-Mikrotik-Executor/releases/" target="_blank">Download</a>
