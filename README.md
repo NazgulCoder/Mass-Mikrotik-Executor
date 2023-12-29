@@ -12,6 +12,22 @@ I am not responsible for any illegal use of my tool, use it always on devices yo
 
 For the compiled version I used auto-py-to-exe and might flag multiple false positives.
 
+# Instructions
+- Write the commands you wish to execute (one per line) in this file `/config/command.txt`
+
+- Write the IPs of your Mikrotiks (one per line) in this file `/config/mikrotik.txt`
+
+- Write the user (if among your devices you have used different users you can write multiple entries one per line) in this file `/config/user.txt`
+
+- Write the password (if among your devices you have used different passwords you can write multiple entries one per line) in this file `/config/password.txt`
+
+- Write the SSH port (if among your devices you have used different SSH ports you can write multiple entries one per line) in this file `/config/port.txt`
+
+
+Then execute either the python version, or the compiled binary if you don't have Python installed. *MME* will try to connect to each device you specified the IP with the indicated user and passwords (if multiple entries have been specified in the config files then *MME* will try them all).
+
+*MME* will save logs in `/log`
+
 
 # Donations
 - ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/bfb37ab3-5245-4b98-bd9f-08813b262117) bc1qvcr8nv6la58jp5y29s28dkrnr8v3ukn9tgztea
