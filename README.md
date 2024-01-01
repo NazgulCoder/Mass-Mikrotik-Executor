@@ -29,6 +29,9 @@ Then execute either the python version, or the compiled binary if you don't have
 *MME* will save logs in `/log`
 
 
+If you are a Mikrotik user you may want to check my other appreciated repo <a href="https://github.com/NazgulCoder/Mikrotik-IP-Firewall" target="_blank">Mikrotik IP Firewall</a> 
+
+
 # Donations
 - ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/bfb37ab3-5245-4b98-bd9f-08813b262117) bc1qvcr8nv6la58jp5y29s28dkrnr8v3ukn9tgztea
 - ![image](https://github.com/NazgulCoder/NazgulCoder/assets/85739956/de324b88-2251-4371-81cc-0aecbd5e7272) 0xca834fbF25B32fB887aeb88FD28567c26e268200
