@@ -6,7 +6,7 @@ With *MME* you can customize in `/config` the commands to be executed (one per l
 <ins>*I am not responsible for any illegal use of my tool, use it always on devices you have permission to work on.*</ins>
 
 
-<a href="https://github.com/NazgulCoder/Mass-Mikrotik-Executor/releases/" target="_blank">Download</a>
+DOWNLOAD REMOVED
 
 <a href="https://www.virustotal.com/gui/file/7d14b113fccd4143f356417ba7f66fe3d673b1dac6b6b1f707e62a8e6a9aab3b" target="_blank">VirusTotal</a>
 
